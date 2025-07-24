@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: excel-mock-interview
+    env: docker
+    plan: free
+    autoDeploy: true
+    envVars:
+      # Add your environment variables here (do NOT put secrets in this file)
+      # - key: OPENAI_API_KEY
+      #   sync: false 
