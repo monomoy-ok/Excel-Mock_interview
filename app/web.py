@@ -1,14 +1,9 @@
 import streamlit as st
 import streamlit.components.v1 as components
-import sys
-import os
-from app.llm_questions import get_interview_questions
-from app.evaluator import evaluate_answer
-from app.report_generator import generate_pdf_report
-from app.config import INTERVIEW_QUESTIONS_COUNT
-
-# Ensure the parent directory is in sys.path for module imports
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from llm_questions import get_interview_questions
+from evaluator import evaluate_answer
+from report_generator import generate_pdf_report
+from config import INTERVIEW_QUESTIONS_COUNT
 
 # Helper for browser-based text-to-speech
 def speak_text(text):
