@@ -3,8 +3,14 @@ services:
     name: excel-mock-interview
     env: docker
     plan: free
+    repo: https://github.com/monomoy-ok/Excel-Mock_interview
+    branch: main
+    dockerfilePath: Dockerfile
     autoDeploy: true
     envVars:
-      # Add your environment variables here (do NOT put secrets in this file)
-      # - key: OPENAI_API_KEY
-      #   sync: false 
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: MODEL_NAME
+        sync: false
+      - key: INTERVIEW_QUESTIONS_COUNT
+        sync: false
