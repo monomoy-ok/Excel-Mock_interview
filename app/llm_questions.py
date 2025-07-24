@@ -2,7 +2,7 @@
 from openai import OpenAI
 from app.config import OPENAI_API_KEY, MODEL_NAME
 
-client = OpenAI()
+client = OpenAI(api_key=OPENAI_API_KEY)
 
 def get_interview_questions(n=3, topic="Excel"):
     prompt = f"""

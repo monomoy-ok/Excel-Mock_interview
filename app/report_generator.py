@@ -56,7 +56,7 @@ def generate_pdf_report(candidate_name, questions, answers, feedbacks, summaries
     if summaries:
         from openai import OpenAI
         from app.config import MODEL_NAME, OPENAI_API_KEY
-        client = OpenAI()
+        client = OpenAI(api_key=OPENAI_API_KEY)
         try:
             prompt = f"""
 You are an expert interviewer. Here are the candidate's answers and feedback summaries:
