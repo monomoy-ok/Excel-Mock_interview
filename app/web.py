@@ -1,19 +1,59 @@
 import streamlit as st
+import streamlit.components.v1 as components
 import sys
 import os
-from st_speech_to_text import st_speech_to_text
-
-# Ensure the parent directory is in sys.path for module imports
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-
 from app.llm_questions import get_interview_questions
 from app.evaluator import evaluate_answer
 from app.report_generator import generate_pdf_report
 from app.config import INTERVIEW_QUESTIONS_COUNT
 
+# Ensure the parent directory is in sys.path for module imports
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 # Helper for browser-based text-to-speech
 def speak_text(text):
     st.write(f"<script>window.speechSynthesis.speak(new SpeechSynthesisUtterance({repr(text)}));</script>", unsafe_allow_html=True)
+
+# Helper for browser-based speech-to-text
+# Returns the recognized text or ""
+def speech_to_text_ui():
+    speech_html = """
+    <script>
+    var streamlitSpeechToText = window.streamlitSpeechToText || {};
+    function startRecognition() {
+        var recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+        recognition.lang = 'en-US';
+        recognition.interimResults = false;
+        recognition.maxAlternatives = 1;
+        recognition.onresult = function(event) {
+            var transcript = event.results[0][0].transcript;
+            window.parent.postMessage({isStreamlitMessage: true, type: 'streamlit:setComponentValue', value: transcript}, '*');
+        };
+        recognition.onerror = function(event) {
+            window.parent.postMessage({isStreamlitMessage: true, type: 'streamlit:setComponentValue', value: ''}, '*');
+        };
+        recognition.start();
+    }
+    </script>
+    <button onclick="startRecognition()">🎤 Speak</button>
+    """
+    result = components.html(speech_html, height=50)
+    return st.session_state.get('speech_result', "")
+
+# Streamlit custom component handler
+if 'speech_result' not in st.session_state:
+    st.session_state['speech_result'] = ""
+
+# Listen for messages from the JS component
+st.markdown("""
+<script>
+window.addEventListener('message', (event) => {
+    if (event.data && event.data.type === 'streamlit:setComponentValue') {
+        window.parent.postMessage({isStreamlitMessage: true, type: 'streamlit:setComponentValue', key: 'speech_result', value: event.data.value}, '*');
+    }
+});
+</script>
+""", unsafe_allow_html=True)
 
 st.set_page_config(page_title="Excel Mock Interviewer", layout="centered")
 st.title("Excel Mock Interviewer (with Voice)")
@@ -52,7 +92,8 @@ elif 1 <= st.session_state.step <= INTERVIEW_QUESTIONS_COUNT:
         st.session_state.last_spoken = question
     st.write("You can answer by typing or using your voice:")
     # Voice input
-    voice_text = st_speech_to_text(language='en', use_container_width=True)
+    speech_to_text_ui()
+    voice_text = st.session_state.get('speech_result', "")
     # Text input
     answer = st.text_area("Your Answer:", value=st.session_state.answers[idx], key=f"answer_{idx}")
     # Prefer voice input if available
@@ -103,7 +144,7 @@ elif st.session_state.interview_complete:
     if st.session_state.report_path:
         st.write(f"📄 Report saved at: `{st.session_state.report_path}`")
     if st.button("Restart Interview"):
-        for key in ["step", "questions", "answers", "feedback", "report_path", "interview_complete", "last_spoken", "feedback_to_speak"]:
+        for key in ["step", "questions", "answers", "feedback", "report_path", "interview_complete", "last_spoken", "feedback_to_speak", "speech_result"]:
             if key in st.session_state:
                 del st.session_state[key]
         st.experimental_rerun() 
