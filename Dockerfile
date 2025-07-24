@@ -29,5 +29,5 @@ ENV STREAMLIT_SERVER_HEADLESS=true
 ENV STREAMLIT_SERVER_PORT=8501
 ENV STREAMLIT_SERVER_ENABLECORS=false
 
-# Command to run the Streamlit app
-CMD ["streamlit", "run", "app/web.py"]
+# Command to run the Streamlit app on the correct port/address for Railway
+CMD ["sh", "-c", "streamlit run app/web.py --server.port=$PORT --server.address=0.0.0.0"]
