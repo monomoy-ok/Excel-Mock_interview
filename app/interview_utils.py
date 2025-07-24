@@ -6,7 +6,7 @@ from openai import OpenAI
 from app.config import MODEL_NAME, OPENAI_API_KEY
 
 # Set up OpenAI client
-client = OpenAI(api_key=OPENAI_API_KEY)
+client = OpenAI()
 
 def conversation_invoke(prompt):
     """Invoke the OpenAI API with a prompt and return the response."""

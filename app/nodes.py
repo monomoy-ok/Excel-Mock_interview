@@ -13,7 +13,7 @@ try:
 except ImportError:
     Fore = None
 from openai import OpenAI
-client = OpenAI(api_key=OPENAI_API_KEY)
+client = OpenAI()
 from typing import TypedDict, List, Optional
 import random
 from app.question_bank import get_random_questions, get_question_by_difficulty, QUESTIONS
