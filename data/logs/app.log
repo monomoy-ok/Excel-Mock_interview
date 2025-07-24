@@ -1,0 +1,1432 @@
+2025-07-23 22:19:34,342 INFO:Interview session started.
+2025-07-23 22:19:34,453 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-23 22:19:34,453 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-23 22:20:18,298 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 22:26:09,848 INFO:Interview session started.
+2025-07-23 22:26:09,936 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-23 22:26:09,937 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-23 22:26:54,173 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 22:29:42,164 INFO:Interview session started.
+2025-07-23 22:29:42,256 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-23 22:29:42,256 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-23 22:31:05,991 INFO:Interview session started.
+2025-07-23 22:31:06,083 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-23 22:31:06,084 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-23 22:32:09,658 INFO:Interview session started.
+2025-07-23 22:32:09,738 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-23 22:32:09,739 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-23 22:32:38,870 ERROR:
+    Error 259 for command:
+        play "C:\Users\ADMIN\AppData\Local\Temp\tmpkc1aosjd.mp3" wait
+    The driver cannot recognize the specified command parameter.
+2025-07-23 22:33:08,331 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 22:34:49,787 INFO:Interview session started.
+2025-07-23 22:34:49,869 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-23 22:34:49,869 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-23 22:35:51,846 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 22:36:52,784 INFO:Interview session started.
+2025-07-23 22:36:52,860 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-23 22:36:52,875 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-23 22:37:33,071 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 22:37:33,086 INFO:Candidate provided name: rohit
+2025-07-23 22:37:33,086 INFO:Started interview with rohit
+2025-07-23 22:38:23,842 INFO:Candidate introduction: so i live in kolkata west bengal and i have completed my graduation from techno india university in bachelor of technology computer science and engineering that's it from my side  for my intersection
+2025-07-23 22:38:34,158 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 22:39:25,388 INFO:Interview session started.
+2025-07-23 22:39:25,468 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-23 22:39:25,469 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-23 22:40:02,336 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 22:40:02,352 INFO:Candidate provided name: rohan
+2025-07-23 22:40:02,352 INFO:Started interview with rohan
+2025-07-23 22:40:42,730 INFO:Candidate introduction: so my name is rohan and i have completed my graduation from techno india university in bachelor of arts in history
+2025-07-23 22:40:53,549 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 22:41:38,630 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 22:43:22,314 INFO:Interview session started.
+2025-07-23 22:43:22,395 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-23 22:43:22,395 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-23 22:43:46,985 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 22:51:37,347 INFO:Interview session started.
+2025-07-23 22:51:37,432 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-23 22:51:37,432 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-23 22:52:12,105 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 22:52:12,105 INFO:Candidate provided name: dinda
+2025-07-23 22:52:12,105 INFO:Started interview with dinda
+2025-07-23 22:53:13,889 INFO:Candidate introduction: so I currently live in West Bengal Kolkata I complete my graduation from Bankura Christian Collegiate School and I did my graduation in history honours that's it from my side  from my introduction
+2025-07-23 22:53:25,080 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 22:54:17,113 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:06:04,349 INFO:Interview session started.
+2025-07-23 23:06:04,431 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-23 23:06:04,431 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-23 23:06:45,276 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:06:45,291 INFO:Candidate provided name: rohan
+2025-07-23 23:06:45,291 INFO:Started interview with rohan
+2025-07-23 23:07:47,069 INFO:Candidate introduction: so my name is Rohan I am working for SharePoint Technologies as I ml developer and looking for new opportunities I have completed my graduation from Bankura Christian College School that's it from my side
+2025-07-23 23:07:57,870 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:08:46,463 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:13:40,805 INFO:Interview session started.
+2025-07-23 23:13:40,899 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-23 23:13:40,899 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-23 23:14:03,508 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:14:03,523 INFO:Candidate provided name: monomer
+2025-07-23 23:14:03,523 INFO:Started interview with monomer
+2025-07-23 23:14:55,106 INFO:Candidate introduction: my current time live in Kolkata and I have completed my graduation from Techno India University and currently working as a software developer
+2025-07-23 23:15:05,315 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:16:05,560 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:16:21,872 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:22:18,968 INFO:Interview session started.
+2025-07-23 23:22:19,054 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-23 23:22:19,054 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-23 23:22:41,101 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:22:41,121 INFO:Candidate provided name: rohit
+2025-07-23 23:22:41,121 INFO:Started interview with rohit
+2025-07-23 23:23:34,127 INFO:Candidate introduction: so currently I am working in software developer in SharePoint Technologies and I have completed my graduation from Technology University
+2025-07-23 23:23:45,827 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:24:27,013 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:24:42,512 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:25:24,206 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:25:39,634 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:25:39,636 INFO:Evaluated answer: sorry I don't know sorry I don't know | Feedback: Accuracy: The answer is not technically correct as it does not provide any information about relative and absolute cell references.  
+Clarity: There is no explanation provided, making it unclear.  
+Completeness: The answer is completely lacking in content, missing all key points related to the question.  
+
+Feedback: The candidate did not provide any information regarding the difference between relative and absolute cell references, which is fundamental knowledge for Excel users. It's important to prepare for basic concepts in Excel to demonstrate competence.  
+Score: 1/10
+2025-07-23 23:26:30,086 INFO:Interview session started.
+2025-07-23 23:26:30,168 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-23 23:26:30,168 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-23 23:26:52,092 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:26:52,092 INFO:Candidate provided name: Subhadeep
+2025-07-23 23:26:52,092 INFO:Started interview with Subhadeep
+2025-07-23 23:27:52,643 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:28:01,600 INFO:Candidate introduction: so currently working as a software developer in SharePoint Technologies and I have completed my graduation from Technology University
+2025-07-23 23:28:12,271 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:28:41,799 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:28:57,624 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:29:25,276 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:29:42,256 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:29:42,256 INFO:Evaluated answer: I don't know | Feedback: - Accuracy: The answer is not accurate as it does not provide any information about the INDEX and MATCH functions.
+- Clarity: There is no clarity in the response since it does not attempt to explain the functions.
+- Completeness: The answer is completely lacking in content, missing any key points or explanations.
+
+Feedback: The response does not demonstrate any knowledge of the topic. It would be beneficial to study the INDEX and MATCH functions, as they are commonly used for lookups in Excel. 
+
+Score: 1/10
+2025-07-23 23:42:16,215 INFO:Interview session started.
+2025-07-23 23:42:16,303 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-23 23:42:16,303 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-23 23:42:37,971 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:42:37,987 INFO:Candidate provided name: rohit
+2025-07-23 23:42:37,987 INFO:Started interview with rohit
+2025-07-23 23:43:29,759 INFO:Candidate introduction: so currently I am working as a software developer in SharePoint Technologies my role has yet to create a agents and looking for new jobs I am looking for new jobs and I have completed my graduation from Techno India University in 2024
+2025-07-23 23:43:42,363 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:44:14,187 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:47:20,217 INFO:Interview session started.
+2025-07-23 23:47:20,302 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-23 23:47:20,302 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-23 23:47:42,354 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:47:42,385 INFO:Candidate provided name: monu
+2025-07-23 23:47:42,385 INFO:Started interview with monu
+2025-07-23 23:48:23,194 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:48:28,029 INFO:Candidate introduction: I don't want to give my introduction
+2025-07-23 23:48:38,772 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:52:43,996 INFO:Interview session started.
+2025-07-23 23:52:44,078 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-23 23:52:44,078 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-23 23:53:05,988 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:53:05,988 INFO:Candidate provided name: Ananya
+2025-07-23 23:53:05,988 INFO:Started interview with Ananya
+2025-07-23 23:53:52,758 INFO:Candidate introduction: currently I am working in SBI as a talent acquisition manager and looking for new opportunities currently my salary is 7 and LPM
+2025-07-23 23:54:04,720 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:54:29,286 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:59:06,000 INFO:Interview session started.
+2025-07-23 23:59:06,083 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-23 23:59:06,083 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-23 23:59:27,199 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 23:59:27,207 INFO:Candidate provided name: Rohit
+2025-07-23 23:59:27,207 INFO:Started interview with Rohit
+2025-07-24 00:00:14,384 INFO:Candidate introduction: so my name is Rohit I work for 7.1 Technologies as an aml developer and currently earning 5 LPM
+2025-07-24 00:00:25,075 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:01:12,793 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:01:25,207 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:02:04,018 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:02:23,419 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:02:23,419 INFO:Evaluated answer: Chhotu create pivot tables we have to go to the insert tab then create on pivot tables and create the private table as selecting the specific range in which I want to create the pivot tables | Feedback: Accuracy: The answer is partially correct; it mentions going to the Insert tab and creating a pivot table, but it lacks specific details about how to select the range and finalize the creation process.
+
+Clarity: The explanation is unclear and contains grammatical errors, making it difficult to understand. The term "private table" seems to be a misunderstanding of "pivot table."
+
+Completeness: The answer misses important steps, such as choosing where to place the pivot table (new worksheet or existing worksheet), and how to add fields to the pivot table once created.
+
+Feedback: The candidate demonstrates a basic understanding of pivot tables but needs to improve clarity and detail in their explanation. A more structured response would enhance their answer significantly. 
+
+Score: 4/10
+2025-07-24 00:03:04,456 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:03:16,778 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:07:37,182 INFO:Interview session started.
+2025-07-24 00:07:37,271 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 00:07:37,271 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 00:07:58,407 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:07:58,423 INFO:Candidate provided name: Monomer
+2025-07-24 00:07:58,423 INFO:Started interview with Monomer
+2025-07-24 00:08:44,297 INFO:Candidate introduction: so currently work I am working in Capgemini as a software developer and my LPS 5
+2025-07-24 00:08:55,416 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:10:45,523 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:10:58,122 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:12:37,944 INFO:Interview session started.
+2025-07-24 00:12:38,037 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 00:12:38,037 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 00:12:58,864 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:12:58,880 INFO:Candidate provided name: Rohit
+2025-07-24 00:12:58,880 INFO:Started interview with Rohit
+2025-07-24 00:13:41,593 INFO:Candidate introduction: Karunya working as a software developer at TCS and I have been working since towards and work done various projects
+2025-07-24 00:13:52,396 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:14:50,176 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:15:35,911 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:15:45,743 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:17:07,005 INFO:Interview session started.
+2025-07-24 00:17:07,080 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 00:17:07,080 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 00:17:30,095 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:17:31,495 INFO:Candidate provided name: My Name Is Any
+2025-07-24 00:17:31,495 INFO:Started interview with My Name Is Any
+2025-07-24 00:18:04,677 INFO:Candidate introduction: 
+2025-07-24 00:18:15,274 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:18:40,616 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:18:41,698 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:19:26,228 INFO:Interview session started.
+2025-07-24 00:19:26,316 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 00:19:26,316 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 00:19:46,627 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:19:46,627 INFO:Candidate provided name: Rohit
+2025-07-24 00:19:46,627 INFO:Started interview with Rohit
+2025-07-24 00:20:33,075 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:20:45,347 INFO:Candidate introduction: show coronavirus software developer in TCS and earning 5 lakh per annum no
+2025-07-24 00:20:56,188 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:21:40,155 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:21:55,667 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:22:17,293 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:22:21,374 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:22:36,771 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:22:36,786 INFO:Evaluated answer: to use pivot tables we have to go to the insert section then create pivot tables and select the data range of which we want to summarise the data and analyse the visualise the data that's it no like I don't wanna continue anything else | Feedback: Accuracy: The answer is partially correct as it mentions the steps to create a pivot table, but it lacks detail about the functionality and benefits of pivot tables.
+
+Clarity: The explanation is unclear and somewhat disorganized. The candidate's reluctance to elaborate further detracts from the clarity of their response.
+
+Completeness: Key points are missing, such as how to arrange fields, filter data, perform calculations, and the overall advantages of using pivot tables for data analysis.
+
+Feedback: The candidate demonstrates a basic understanding of creating pivot tables but fails to convey the full potential and functionality of this powerful tool. More elaboration and structure are needed to provide a comprehensive answer. 
+
+Score: 4/10
+2025-07-24 00:23:07,448 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:23:08,545 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:23:25,050 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:23:49,291 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:23:52,823 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:24:08,235 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:24:08,245 INFO:Evaluated answer:  | Feedback: Accuracy: The answer is technically correct, assuming it provides a proper explanation of how to use INDEX and MATCH together. However, since the candidate's answer is empty, I cannot evaluate accuracy.
+
+Clarity: Without any content, there is no clarity to assess.
+
+Completeness: The answer lacks any content, so it is completely incomplete.
+
+Feedback: The candidate did not provide an answer, which makes it impossible to evaluate their understanding of the INDEX and MATCH functions. They need to provide a detailed explanation to demonstrate their knowledge.
+
+Score: 0/10
+2025-07-24 00:25:48,391 INFO:Interview session started.
+2025-07-24 00:25:48,487 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 00:25:48,487 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 00:26:08,781 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:26:08,798 INFO:Candidate provided name: Rohan
+2025-07-24 00:26:08,798 INFO:Started interview with Rohan
+2025-07-24 00:26:50,814 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:27:22,779 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:27:52,954 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:28:30,109 INFO:Candidate introduction: so I currently work at coding Ninjas as a software developer and looking for new jobs I have walked on AI agency system which helps the candidates to interviewing automatically and I found that insurance no I don't want to explain more
+2025-07-24 00:28:40,014 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:27:54,259 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:28:07,937 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:28:10,277 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:28:13,915 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:28:28,139 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:28:33,926 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:28:33,926 INFO:Evaluated answer: so I have walked on a dashboard of which employee sales data is recorded so I had to give it to the manager I have used we look of age lookups and also pivot tables to visualise the data and also use charts no I don't have anything to add | Feedback: Accuracy: The answer mentions using VLOOKUP, pivot tables, and charts, which are all relevant Excel functions and features for analyzing and visualizing data. However, the term "we look of age lookups" appears to be a typographical error.
+
+Clarity: The explanation lacks clarity and coherence. The candidate's phrasing is somewhat disjointed, making it difficult to fully understand their process and the complexity of the problem they solved.
+
+Completeness: The response is incomplete as it does not detail the specific problem they faced, the steps taken to solve it, or the impact of their work on the manager's decision-making. Additionally, it lacks examples of how the functions were applied.
+
+Feedback: The candidate has a basic understanding of Excel functions, but the response needs more clarity and detail to effectively communicate the complexity of the problem they solved. 
+
+Score: 5/10
+2025-07-24 00:29:58,861 INFO:Interview session started.
+2025-07-24 00:29:58,946 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 00:29:58,946 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 00:30:19,771 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:30:19,779 INFO:Candidate provided name: Rohit
+2025-07-24 00:30:19,779 INFO:Started interview with Rohit
+2025-07-24 00:31:19,459 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:31:42,297 INFO:Candidate introduction: so Karunya working as a software developer in coding Ninjas and looking for new jobs and looking for looking to settle abroad I don't want to answer about this
+2025-07-24 00:31:52,216 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:32:38,851 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:32:53,306 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:32:55,563 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:32:59,150 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:33:38,905 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:33:38,905 INFO:Evaluated answer: so I have created a report of sales of Mi companies employees and provided it to manager and I have used if else index matching vlookup page look and pivot tables and I have also used chart to visualise the data I don't have anything else to share | Feedback: Accuracy: The candidate mentions using several Excel functions and features, such as IF, INDEX, MATCH, VLOOKUP, and PivotTables, which are all relevant for data analysis. However, the mention of "if else" is not a specific Excel function and could be misleading.
+
+Clarity: The explanation lacks structure and detail. The candidate does not clearly describe the complex problem they solved or how they applied these functions in a specific context. 
+
+Completeness: The answer is missing critical details, such as the nature of the sales report, the specific challenges faced, and how the functions contributed to solving the problem. There is no mention of the impact of the report on decision-making.
+
+Feedback: The candidate needs to provide a clearer and more structured explanation of their experience, including specific challenges and outcomes. More detail on how each function was used would enhance the response.
+
+Score: 5/10
+2025-07-24 00:35:44,591 INFO:Interview session started.
+2025-07-24 00:35:44,661 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 00:35:44,661 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 00:36:06,835 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:36:06,851 INFO:Candidate provided name: rohit
+2025-07-24 00:36:06,851 INFO:Started interview with rohit
+2025-07-24 00:36:49,457 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:37:21,224 INFO:Candidate introduction: so I like to pay ticket and coming to introduction I work as a software developer Capgemini from childhood I want to to build websites and  else why we can software developer and I make a agents in Capgemini
+2025-07-24 00:37:31,800 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:38:29,529 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:38:40,586 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:39:23,331 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:39:38,498 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:39:38,514 INFO:Evaluated answer: so I have used multiple functions like vlookup page lookup index matching if else error and used pivot tables to visualise the data and also use charts | Feedback: Accuracy: The answer mentions relevant Excel functions and features, such as VLOOKUP, INDEX, MATCH, IF, error handling, pivot tables, and charts, which are all technically correct.
+
+Clarity: The explanation lacks structure and coherence. It feels more like a list of functions rather than a narrative describing a specific project.
+
+Completeness: The candidate does not provide details about the project itself, such as the context, objectives, challenges faced, or the impact of the work. This information is essential for a comprehensive answer.
+
+Feedback: While the candidate correctly identifies several useful functions and features, the lack of detail about the project and its outcomes diminishes the overall quality of the response. A more structured and descriptive answer would improve clarity and completeness. 
+
+Score: 5/10
+2025-07-24 00:41:38,279 INFO:Interview session started.
+2025-07-24 00:41:38,362 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 00:41:38,362 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 00:42:01,372 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:42:01,401 INFO:Candidate provided name: rohit
+2025-07-24 00:42:01,401 INFO:Started interview with rohit
+2025-07-24 00:42:45,737 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:43:22,693 INFO:Candidate introduction: so currently I am working as Capgemini As a Software Development looking for new jobs no I don't want to share
+2025-07-24 00:43:32,828 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:44:02,561 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:44:04,236 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:44:18,194 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:44:41,660 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:44:59,577 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:44:59,577 INFO:Evaluated answer: I don't know about that | Feedback: - Accuracy: The answer is technically incorrect as it does not provide any information about conditional formatting.
+- Clarity: The response lacks clarity since it does not explain anything related to the topic.
+- Completeness: The answer is completely incomplete, missing all key points regarding what conditional formatting is and how it can be used.
+
+Feedback: The candidate did not demonstrate any knowledge of conditional formatting, which is a fundamental Excel feature. It would be beneficial to study this topic further to provide a more informed response in the future. 
+
+Score: 1/10
+2025-07-24 00:48:56,081 INFO:Interview session started.
+2025-07-24 00:48:56,210 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 00:48:56,210 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 00:49:26,085 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:49:26,101 INFO:Candidate provided name: Mohtit
+2025-07-24 00:49:26,101 INFO:Started interview with Mohtit
+2025-07-24 00:50:02,623 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:50:40,096 INFO:Candidate introduction: Karunya watching as a sales representative at Cipla so and looking for new jobs I don't know
+2025-07-24 00:50:50,009 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:51:18,979 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:51:20,395 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:51:36,767 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:52:02,842 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:52:19,004 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:52:19,005 INFO:Evaluated answer: I don't know about that | Feedback: Accuracy: The answer is not technically correct as it does not provide any information about relative and absolute cell references.  
+Clarity: There is no explanation provided, so clarity is nonexistent.  
+Completeness: The answer is completely lacking in content and does not address the question at all.  
+
+Feedback: The candidate's response indicates a lack of knowledge on a fundamental Excel concept. It would be beneficial for them to study the differences between relative and absolute cell references to improve their understanding.  
+Score: 1/10
+2025-07-24 00:52:20,210 INFO:Interview complete. Generating summary and report.
+2025-07-24 00:52:26,943 INFO:Report generated at: data/reports\Mohtit_Excel_Interview_Report.pdf
+2025-07-24 00:52:34,619 INFO:Interview session completed successfully.
+2025-07-24 00:54:21,720 INFO:Interview session started.
+2025-07-24 00:54:21,801 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 00:54:21,801 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 00:54:44,827 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:55:03,933 INFO:Candidate provided name: rohit
+2025-07-24 00:55:03,933 INFO:Started interview with rohit
+2025-07-24 00:55:39,425 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:56:10,634 INFO:Candidate introduction: I am currently working at TCS as a software developer and leaving in Kerala and I love my work I am building AI agents and TCS
+2025-07-24 00:56:21,209 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:56:55,686 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:56:57,319 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:57:10,768 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:57:25,919 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:57:39,469 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:58:05,509 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:58:18,849 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:58:18,849 INFO:Evaluated answer: I don't know | Feedback: Evaluation:
+
+- Accuracy: The answer is not technically correct as it does not provide any information about conditional formatting.
+- Clarity: There is no explanation provided, making it unclear.
+- Completeness: The response is completely lacking in content and does not address the question at all.
+
+Feedback: The candidate's response shows a lack of knowledge about conditional formatting, which is a fundamental feature in Excel. It would be beneficial for them to review this topic to improve their understanding.
+
+Score: 1/10
+2025-07-24 00:58:20,057 INFO:Interview complete. Generating summary and report.
+2025-07-24 00:59:25,378 INFO:Interview session started.
+2025-07-24 00:59:25,448 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 00:59:25,448 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 00:59:45,522 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 00:59:58,667 INFO:Interview session started.
+2025-07-24 00:59:58,737 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 00:59:58,737 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 01:00:18,082 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:00:31,861 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:00:31,863 INFO:Candidate provided name: rohit
+2025-07-24 01:00:34,069 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:00:34,069 INFO:Started interview with rohit
+2025-07-24 01:00:51,245 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:01:19,827 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:01:21,660 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:01:48,885 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:01:52,151 INFO:Candidate introduction: I don't know about that
+2025-07-24 01:02:06,502 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:02:08,593 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:02:51,829 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:02:53,178 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:03:08,537 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:03:36,603 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:03:53,581 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:03:55,659 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:04:23,831 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:04:43,587 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:04:43,603 INFO:Evaluated answer: I don't know | Feedback: - Accuracy: The answer is technically incorrect as it does not provide any information about conditional formatting.
+- Clarity: There is no clarity in the response since the candidate did not attempt to explain anything.
+- Completeness: The answer is completely lacking in detail and does not cover any key points related to conditional formatting.
+
+Feedback: The candidate did not demonstrate any knowledge of conditional formatting, which is a fundamental Excel feature. It would be beneficial for them to study this topic further to improve their understanding. 
+
+Score: 1/10
+2025-07-24 01:04:45,481 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:04:45,481 INFO:Interview complete. Generating summary and report.
+2025-07-24 01:05:02,597 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:05:20,380 INFO:Report generated at: data/reports\rohit_Excel_Interview_Report.pdf
+2025-07-24 01:05:22,806 INFO:Interview session completed successfully.
+2025-07-24 01:07:15,461 INFO:Interview session started.
+2025-07-24 01:07:15,544 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 01:07:15,544 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 01:07:34,595 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:07:48,630 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:07:48,630 INFO:Candidate provided name: rohit
+2025-07-24 01:07:50,075 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:07:50,075 INFO:Started interview with rohit
+2025-07-24 01:08:08,639 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:08:39,642 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:09:04,587 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:09:05,990 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:09:28,230 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:09:31,735 INFO:Candidate introduction: I don't want to share yes I love to play cricket
+2025-07-24 01:09:46,353 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:09:48,372 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:10:21,445 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:10:23,428 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:10:44,082 INFO:Interview session started.
+2025-07-24 01:10:44,153 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 01:10:44,153 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 01:10:56,445 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:11:12,193 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:11:12,193 INFO:Candidate provided name: rohit
+2025-07-24 01:11:14,792 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:11:14,792 INFO:Started interview with rohit
+2025-07-24 01:11:46,638 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:12:14,523 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:12:15,781 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:12:18,909 INFO:Candidate introduction: I am working in TCS as a business development associate for 5 years I don't want to share anything else
+2025-07-24 01:12:31,338 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:12:33,035 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:13:04,988 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:13:06,238 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:13:07,455 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:13:22,200 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:13:23,740 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:30:54,384 INFO:Interview session started.
+2025-07-24 01:30:54,474 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 01:30:54,474 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 01:31:07,070 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:31:23,576 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:31:23,584 INFO:Candidate provided name: mohan
+2025-07-24 01:31:26,737 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:31:26,742 INFO:Started interview with mohan
+2025-07-24 01:32:02,289 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:32:04,067 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:32:07,743 INFO:Candidate introduction: so currently I am working as a software developer at Capgemini and looking for new jobs that's why I registered for this job role and this is the interview I am giving  from my
+2025-07-24 01:32:21,645 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:32:23,785 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:33:18,016 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:33:27,960 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:33:29,277 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:33:46,719 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:33:48,152 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:34:20,754 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:34:38,070 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:35:04,012 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:35:04,012 INFO:Evaluated answer: so I have walked on a project in which I have made a report of manager to manager of employees data how they are doing their sales and everything and visualise it so I have walked on excel with VBA and macros | Feedback: Accuracy: The answer mentions using Excel, VBA, and macros, which are relevant tools for creating reports and visualizations. However, it lacks specific details about the functions or features used.
+
+Clarity: The explanation is somewhat unclear and contains grammatical errors, making it difficult to fully understand the candidate's experience and the complexity of the project.
+
+Completeness: The answer is missing key points such as specific Excel functions (e.g., SUMIF, VLOOKUP, PivotTables), the types of visualizations created, and the overall impact of the project.
+
+Feedback: The candidate should provide more specific details about the project, including the functions used and the outcomes achieved. A clearer explanation would enhance the response significantly. 
+
+Score: 5/10
+2025-07-24 01:35:05,809 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:35:05,809 INFO:Interview complete. Generating summary and report.
+2025-07-24 01:35:31,719 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:37:22,034 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:37:24,725 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:37:41,778 INFO:Report generated at: data/reports\mohan_Excel_Interview_Report.pdf
+2025-07-24 01:37:50,689 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:38:09,911 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:38:26,442 INFO:Interview session completed successfully.
+2025-07-24 01:41:33,867 INFO:Interview session started.
+2025-07-24 01:41:33,930 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 01:41:33,930 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 01:41:48,080 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:42:03,752 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:42:03,752 INFO:Candidate provided name: Mona
+2025-07-24 01:42:05,468 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:42:05,468 INFO:Started interview with Mona
+2025-07-24 01:42:41,361 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:43:06,164 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:43:07,733 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:43:27,361 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:43:31,070 INFO:Candidate introduction: show current life workout in coding Ninjas software development no I don't want to share anything
+2025-07-24 01:43:45,533 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:43:48,836 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:44:32,147 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:44:37,385 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:44:39,461 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:44:41,152 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:45:20,620 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:45:22,636 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:45:41,109 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:45:41,124 INFO:Evaluated answer: to use the value of select a specific cell and report is equal to in it and then first bracket then get the lookup value and then go for the after comma go for the like specific range in which we are looking up for the value and then close it and enter and we can use the week look up the practice | Feedback: Accuracy: The answer contains some technical inaccuracies, such as "report is equal to in it" and "week look up the practice," which do not convey the correct usage of VLOOKUP. 
+
+Clarity: The explanation is quite unclear and lacks a coherent structure, making it difficult to follow the candidate's thought process.
+
+Completeness: The candidate does not mention key components such as the syntax of the VLOOKUP function, the importance of the table array, or how to handle approximate matches.
+
+Feedback: The candidate shows an attempt to explain VLOOKUP, but the response lacks clarity and accuracy. A more structured explanation with correct terminology would improve the answer significantly. 
+
+Score: 3/10
+2025-07-24 01:45:42,998 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:45:42,998 INFO:Interview complete. Generating summary and report.
+2025-07-24 01:46:04,181 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:47:46,809 INFO:Interview session started.
+2025-07-24 01:47:46,886 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 01:47:46,886 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 01:47:51,501 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:48:00,318 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:48:00,318 INFO:Candidate provided name: rohit
+2025-07-24 01:48:01,822 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:48:01,822 INFO:Started interview with rohit
+2025-07-24 01:48:34,030 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:49:07,465 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:49:08,455 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:49:11,064 INFO:Candidate introduction: so I live in Kolkata and currently working in Tata consultancy services as software developer I love my work here I work on different project I am working in a project of developing AI agents and using line graph and lectures
+2025-07-24 01:49:22,538 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:49:24,619 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:50:01,725 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:50:07,828 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:50:10,172 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:50:12,368 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:50:49,061 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:50:50,738 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:51:10,881 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:51:10,881 INFO:Evaluated answer: I had a large sales data set so from there I have extracted the data to visualise to and reported to manager like where I used free lookup and index matching functions and also used pivot tables | Feedback: Accuracy: The candidate mentions using "free lookup," which seems to be a misunderstanding of VLOOKUP or a typo. The use of INDEX/MATCH is correct, but the explanation lacks detail on how these functions were specifically applied.
+
+Clarity: The response is somewhat vague and lacks a clear structure. It does not explain the specific problem faced or how the functions were used to address that problem.
+
+Completeness: The answer is missing key details such as the nature of the data problem, specific examples of how VLOOKUP or INDEX/MATCH were applied, and the impact of the analysis on decision-making.
+
+Feedback: The candidate demonstrates familiarity with advanced Excel functions but needs to provide more specific examples and clarity in their explanation. A more structured response would enhance their answer.
+
+Score: 5/10
+2025-07-24 01:51:14,127 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:51:17,960 INFO:Interview complete. Generating summary and report.
+2025-07-24 01:51:36,407 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:51:40,278 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:51:51,653 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:52:17,624 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:52:37,012 INFO:Interview session completed successfully.
+2025-07-24 01:59:38,082 INFO:Interview session started.
+2025-07-24 01:59:38,154 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 01:59:38,154 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 01:59:42,861 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:59:52,431 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:59:52,436 INFO:Candidate provided name: monomoy
+2025-07-24 01:59:54,473 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 01:59:54,489 INFO:Started interview with monomoy
+2025-07-24 02:02:18,052 INFO:Interview session started.
+2025-07-24 02:02:18,109 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 02:02:18,109 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 02:02:22,725 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:02:29,700 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:02:29,716 INFO:Candidate provided name: rohit
+2025-07-24 02:02:31,050 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:02:31,050 INFO:Started interview with rohit
+2025-07-24 02:10:39,017 INFO:Interview session started.
+2025-07-24 02:10:39,084 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 02:10:39,084 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 02:10:43,981 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:10:54,120 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:10:54,125 INFO:Candidate provided name: rohit
+2025-07-24 02:10:55,388 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:10:55,390 INFO:Started interview with rohit
+2025-07-24 02:11:55,249 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:11:56,351 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:11:58,648 INFO:Candidate introduction: ISRO currently I'm working in TCS as a software developer and looking for new jobs
+2025-07-24 02:12:08,480 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:12:10,825 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:19:43,339 INFO:Interview session started.
+2025-07-24 02:19:43,395 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 02:19:43,395 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 02:19:48,320 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:19:58,192 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:19:58,202 INFO:Candidate provided name: rohit
+2025-07-24 02:19:59,871 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:19:59,879 INFO:Started interview with rohit
+2025-07-24 02:20:30,811 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:20:32,106 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:20:34,611 INFO:Candidate introduction: work in TCS as a software what is the software develo
+2025-07-24 02:20:45,556 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:20:48,001 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:22:58,269 INFO:Interview session started.
+2025-07-24 02:22:58,327 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 02:22:58,327 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 02:23:02,914 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:23:12,201 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:23:12,205 INFO:Candidate provided name: monomer
+2025-07-24 02:23:14,439 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:23:14,449 INFO:Started interview with monomer
+2025-07-24 02:23:49,750 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:23:51,232 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:23:54,218 INFO:Candidate introduction: see also currently I am working at TCS as a software developer and looking for new jobs  t at all
+2025-07-24 02:24:06,636 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:24:09,016 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:24:52,793 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:25:11,083 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:25:13,425 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:25:14,616 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:27:23,892 INFO:Interview session started.
+2025-07-24 02:27:23,941 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 02:27:23,942 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 02:27:28,496 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:27:37,076 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:27:37,086 INFO:Candidate provided name: rohit
+2025-07-24 02:27:38,843 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:27:38,850 INFO:Started interview with rohit
+2025-07-24 02:28:12,769 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:28:14,164 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:28:16,971 INFO:Candidate introduction: your current name working at Infosys as a software developer I have a previous work
+2025-07-24 02:28:29,163 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:28:31,434 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:28:51,042 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:28:51,984 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:29:03,902 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:29:33,358 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:29:48,916 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:29:50,197 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:30:32,731 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:30:33,980 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:30:48,479 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:30:48,481 INFO:Evaluated answer: no i don't want any hint | Feedback: Accuracy: The answer is not technically correct as it does not address the question at all.  
+Clarity: There is no clarity since the candidate did not provide any information or explanation.  
+Completeness: The answer is completely incomplete; it fails to provide any relevant details or insights.  
+
+Feedback: The response does not answer the question and lacks any demonstration of Excel knowledge or experience. It is important to engage with the question to showcase your skills.  
+Score: 1/10
+2025-07-24 02:30:49,674 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:30:53,597 INFO:Interview complete. Generating summary and report.
+2025-07-24 02:31:11,356 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:31:22,494 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:31:46,633 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:32:14,887 INFO:Interview session completed successfully.
+2025-07-24 02:36:05,713 INFO:Interview session started.
+2025-07-24 02:36:05,820 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 02:36:05,820 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 02:36:11,064 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:36:20,690 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:36:20,692 INFO:Candidate provided name: umesh
+2025-07-24 02:36:21,813 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:36:21,813 INFO:Started interview with umesh
+2025-07-24 02:38:52,944 INFO:Interview session started.
+2025-07-24 02:38:53,050 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 02:38:53,050 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 02:38:58,592 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:39:17,848 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:39:17,850 INFO:Candidate provided name: rohit
+2025-07-24 02:39:19,280 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 02:39:19,284 INFO:Started interview with rohit
+2025-07-24 15:41:28,121 INFO:Interview session started.
+2025-07-24 15:41:28,220 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 15:41:28,220 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 15:41:33,725 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 15:41:42,005 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 15:41:42,005 INFO:Candidate provided name: rohit
+2025-07-24 15:41:44,950 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 15:41:44,950 INFO:Started interview with rohit
+2025-07-24 15:44:36,161 INFO:Interview session started.
+2025-07-24 15:44:36,263 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 15:44:36,263 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 15:44:52,476 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 15:44:52,476 INFO:Candidate provided name: sohini
+2025-07-24 15:44:52,476 INFO:Started interview with sohini
+2025-07-24 15:46:38,395 INFO:Interview session started.
+2025-07-24 15:46:38,472 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 15:46:38,472 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 15:47:01,171 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 15:47:01,202 INFO:Candidate provided name: Dipan
+2025-07-24 15:47:01,202 INFO:Started interview with Dipan
+2025-07-24 15:47:40,008 INFO:Candidate introduction: show a currently working at 7.1 techlogies as director previously i have worked in genpact as a associate manager and looking for new jobs
+2025-07-24 15:47:51,507 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 15:50:19,400 INFO:Interview session started.
+2025-07-24 15:50:19,479 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 15:50:19,480 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 15:50:35,262 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 15:50:35,262 INFO:Candidate provided name: Lakshya
+2025-07-24 15:50:35,262 INFO:Started interview with Lakshya
+2025-07-24 15:51:15,200 INFO:Candidate introduction: you are so currently i am working at accelerator x as chief techlogy officer and previously i have worked at tata consultancy services a senior developer and my current package is 10 lpa and looking for new jobs
+2025-07-24 15:51:25,533 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 15:54:56,361 INFO:Interview session started.
+2025-07-24 15:54:56,442 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 15:54:56,443 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 15:55:12,353 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 15:55:12,369 INFO:Candidate provided name: pratima
+2025-07-24 15:55:12,369 INFO:Started interview with pratima
+2025-07-24 15:55:56,295 INFO:Candidate introduction: you are so currently i am working as a housewife and previously i have worked as genpact at associate manager and currently i am looking for new jobs and exporting new opportunities  from my
+2025-07-24 15:56:06,379 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 15:57:51,603 INFO:Interview session started.
+2025-07-24 15:57:51,676 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 15:57:51,676 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 15:58:06,747 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 15:58:06,763 INFO:Candidate provided name: rohit
+2025-07-24 15:58:06,763 INFO:Started interview with rohit
+2025-07-24 15:58:48,690 INFO:Candidate introduction: so currently i am studying at tech india university in third year and i will complete my schooling in 2026 and i am looking for internship opportunities
+2025-07-24 15:59:00,672 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 15:59:24,677 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 15:59:39,565 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:12:18,609 INFO:Interview session started.
+2025-07-24 16:12:18,691 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 16:12:18,691 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 16:12:33,801 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:12:33,816 INFO:Candidate provided name: sohan
+2025-07-24 16:12:33,816 INFO:Started interview with sohan
+2025-07-24 16:13:11,864 INFO:Interview session started.
+2025-07-24 16:13:11,931 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 16:13:11,931 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 16:13:27,173 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:13:27,189 INFO:Candidate provided name: rohan
+2025-07-24 16:13:27,189 INFO:Started interview with rohan
+2025-07-24 16:14:08,302 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:14:24,825 INFO:Candidate introduction: so my name is sohan i study in tech india university as a computer science graduate and i will complete my schooling in 2027 i am in second year right w
+2025-07-24 16:15:39,683 INFO:Interview session started.
+2025-07-24 16:15:39,766 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 16:15:39,766 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 16:15:54,894 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:15:54,904 INFO:Candidate provided name: neelu
+2025-07-24 16:15:54,904 INFO:Started interview with neelu
+2025-07-24 16:16:34,716 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:17:20,852 INFO:Candidate introduction: sure so my name is neelu i currently live in kolkata my bachelor of science in nursing
+2025-07-24 16:19:36,497 INFO:Interview session started.
+2025-07-24 16:19:36,573 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 16:19:36,573 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 16:19:51,954 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:19:51,954 INFO:Candidate provided name: sohan
+2025-07-24 16:19:51,954 INFO:Started interview with sohan
+2025-07-24 16:20:30,244 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:20:43,090 INFO:Candidate introduction: yes you are so currently i am studying in tech india university and completing my bachelors of techlogy in computer science engineering and looking for new jobs
+2025-07-24 16:22:59,251 INFO:Interview session started.
+2025-07-24 16:22:59,318 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 16:22:59,318 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 16:23:15,005 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:23:15,005 INFO:Candidate provided name: iso
+2025-07-24 16:23:15,005 INFO:Started interview with iso
+2025-07-24 16:23:54,323 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:23:57,174 INFO:Candidate introduction: yes you are so currently i am working as software developer at 0.05 and i have previously worked in tcs
+2025-07-24 16:24:08,616 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:26:40,917 INFO:Interview session started.
+2025-07-24 16:26:40,973 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 16:26:40,974 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 16:26:56,136 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:26:56,136 INFO:Candidate provided name: Virat
+2025-07-24 16:26:56,136 INFO:Started interview with Virat
+2025-07-24 16:27:33,032 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:27:34,281 INFO:Candidate introduction: yes you are so currently i am working as a software developer in tcs and previously i have worked as a software associate cognizant and w looking for new opportunities
+2025-07-24 16:27:44,680 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:28:32,153 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:28:49,363 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:29:23,477 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:29:38,702 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:29:38,702 INFO:Evaluated answer: so i had a project where i have to show my manager the employee sales data so i have gathered all the database in raw format and clean the data then used multiple variable formulas with vlookup hlookup and index matching to solve this issues and also created | Feedback: Accuracy: The answer mentions using VLOOKUP, HLOOKUP, and INDEX-MATCH, which are relevant functions for handling employee sales data. However, it lacks specific details about how these functions were applied.
+
+Clarity: The explanation is somewhat unclear and lacks structure. It jumps from data gathering to cleaning and then to formula usage without a coherent flow.
+
+Completeness: The response misses key details such as the specific challenges faced, the complexity of the dataset, and the outcomes of the project. It would benefit from examples of the formulas used and their impact on the analysis.
+
+Feedback: The candidate provides a basic overview of their project but needs to articulate their process more clearly and provide specific examples to demonstrate their expertise. 
+
+Score: 5/10
+2025-07-24 16:29:39,906 INFO:Interview complete. Generating summary and report.
+2025-07-24 16:29:49,586 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:29:50,878 INFO:Report generated at: data/reports\Virat_Excel_Interview_Report.pdf
+2025-07-24 16:29:59,821 INFO:Interview session completed successfully.
+2025-07-24 16:32:36,821 INFO:Interview session started.
+2025-07-24 16:32:36,877 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 16:32:36,877 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 16:32:52,998 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:32:52,998 INFO:Candidate provided name: my name is written
+2025-07-24 16:32:52,998 INFO:Started interview with my name is written
+2025-07-24 16:33:28,755 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:33:31,658 INFO:Candidate introduction: show currently i am working as a director in sharepoint techlogies i have previously worked as a product manager in tcs
+2025-07-24 16:33:42,447 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:34:48,560 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:35:09,014 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:35:37,241 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:35:52,755 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:35:52,755 INFO:Evaluated answer: so i have walked on a project where i had to show the excel data to my manager and employee sales data so i have used ill files and index matching and raise error formulas also including vlookup and digital clock and appear | Feedback: Accuracy: The answer mentions several Excel functions like INDEX, MATCH, VLOOKUP, and error handling, which are relevant, but the term "digital clock" is unclear and likely incorrect in this context.
+
+Clarity: The explanation is quite vague and lacks detail. The candidate does not clearly describe the project or how they applied the functions, making it hard to understand their approach.
+
+Completeness: The response misses key points such as the specific challenges faced, the steps taken to troubleshoot issues, and the overall impact of the project.
+
+Feedback: The candidate needs to provide a clearer and more detailed account of their project, including specific challenges and solutions. Focus on articulating the technical aspects and the troubleshooting process more effectively. 
+
+Score: 4/10
+2025-07-24 16:35:55,977 INFO:Interview complete. Generating summary and report.
+2025-07-24 16:36:05,184 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:36:06,766 INFO:Report generated at: data/reports\my_name_is_written_Excel_Interview_Report.pdf
+2025-07-24 16:36:14,828 INFO:Interview session completed successfully.
+2025-07-24 16:37:16,006 INFO:Interview session started.
+2025-07-24 16:37:16,064 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 16:37:16,064 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 16:37:31,602 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:37:31,760 INFO:Candidate provided name: Sushmita
+2025-07-24 16:37:31,760 INFO:Started interview with Sushmita
+2025-07-24 16:39:19,828 INFO:Interview session started.
+2025-07-24 16:39:19,883 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 16:39:19,883 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 16:39:35,801 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:39:35,833 INFO:Candidate provided name: Any
+2025-07-24 16:39:35,833 INFO:Started interview with Any
+2025-07-24 16:40:11,244 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:40:27,913 INFO:Candidate introduction: you are so currently i am pursuing my masters from burdwan university and i have completed my bachelors from bankura sammilani medical college and i have completed these course in bachelor of techlogy
+2025-07-24 16:40:38,019 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:41:02,239 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:41:18,239 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:41:39,902 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:41:50,742 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:41:50,743 INFO:Evaluated answer: i don't remember this actually | Feedback: Accuracy: The answer is not accurate, as the candidate fails to provide any information about relative and absolute cell references. 
+
+Clarity: There is no clarity in the response because the candidate does not attempt to explain the concepts.
+
+Completeness: The answer is completely lacking in content, missing all key points related to the question.
+
+Feedback: The candidate did not provide any relevant information regarding the difference between relative and absolute cell references, which is a fundamental concept in Excel. A better response would include definitions and examples for each type of reference.
+
+Score: 1/10
+2025-07-24 16:41:52,048 INFO:Interview complete. Generating summary and report.
+2025-07-24 16:42:01,556 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:42:05,764 INFO:Report generated at: data/reports\Any_Excel_Interview_Report.pdf
+2025-07-24 16:42:13,386 INFO:Interview session completed successfully.
+2025-07-24 16:44:08,709 INFO:Interview session started.
+2025-07-24 16:44:08,768 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 16:44:08,768 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 16:44:24,259 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:44:24,274 INFO:Candidate provided name: Sunanda
+2025-07-24 16:44:24,274 INFO:Started interview with Sunanda
+2025-07-24 16:45:02,632 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:45:16,107 INFO:Candidate introduction: yes you are so currently i am studying at university of engineering and management and i am pursuing bachelor of techlogy in computer science in engineering and i have hobbies like gardening and singing
+2025-07-24 16:45:26,182 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:45:50,016 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:46:04,362 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:47:49,788 INFO:Interview session started.
+2025-07-24 16:47:49,843 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 16:47:49,843 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 16:48:04,727 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:48:04,774 INFO:Candidate provided name: Rick
+2025-07-24 16:48:04,774 INFO:Started interview with Rick
+2025-07-24 16:49:36,442 INFO:Interview session started.
+2025-07-24 16:49:36,493 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 16:49:36,493 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 16:49:52,009 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:49:52,667 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:49:52,667 INFO:Candidate provided name: Ishika
+2025-07-24 16:49:52,667 INFO:Started interview with Ishika
+2025-07-24 16:50:27,050 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:50:43,114 INFO:Candidate introduction: yes you are so currently i am in class 12th and i am planning to complete my graduation in bachelor of techlogy in computer science and looking for some jobs that's why i am here for the interview
+2025-07-24 16:50:53,189 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:51:14,551 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:51:27,591 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:53:12,259 INFO:Interview session started.
+2025-07-24 16:53:12,302 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 16:53:12,302 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 16:53:28,231 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:53:28,764 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:53:28,764 INFO:Candidate provided name: Ishika
+2025-07-24 16:53:28,764 INFO:Started interview with Ishika
+2025-07-24 16:54:09,079 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:54:27,280 INFO:Candidate introduction: your currently i am class 12th and i am studying in science so i have given my 12th and looking for jobs and i will time thinking to complete my graduation in bachelor of techlogy
+2025-07-24 16:54:37,722 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:57:29,648 INFO:Interview session started.
+2025-07-24 16:57:29,720 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 16:57:29,720 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 16:57:55,484 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 16:57:55,499 INFO:Candidate provided name: Kuldeep
+2025-07-24 16:57:55,499 INFO:Started interview with Kuldeep
+2025-07-24 17:00:08,688 INFO:Interview session started.
+2025-07-24 17:00:08,775 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 17:00:08,775 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 17:00:33,947 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:00:34,797 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:00:34,813 INFO:Candidate provided name: Ashish
+2025-07-24 17:00:34,813 INFO:Started interview with Ashish
+2025-07-24 17:01:14,253 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:01:15,516 INFO:Candidate introduction: so my name is ashish i have completed my graduation from iit kharagpur and completed my mba from isb bangalore and currently working as chief strategic legal officer in coding ninjas
+2025-07-24 17:01:26,306 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:04:01,184 INFO:Interview session started.
+2025-07-24 17:04:01,252 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 17:04:01,252 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 17:04:33,270 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:04:33,898 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:04:33,945 INFO:Candidate provided name: Ashish
+2025-07-24 17:04:33,945 INFO:Started interview with Ashish
+2025-07-24 17:07:46,351 INFO:Interview session started.
+2025-07-24 17:07:46,403 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 17:07:46,403 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 17:08:10,022 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:08:10,789 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:08:10,789 INFO:Candidate provided name: Ashish
+2025-07-24 17:08:10,789 INFO:Started interview with Ashish
+2025-07-24 17:10:42,956 INFO:Interview session started.
+2025-07-24 17:10:43,022 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 17:10:43,022 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 17:11:06,609 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:11:07,439 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:11:07,439 INFO:Candidate provided name: Amir
+2025-07-24 17:11:07,439 INFO:Started interview with Amir
+2025-07-24 17:11:44,306 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:11:45,525 INFO:Candidate introduction: desi also currently i am studying in bankura christian college and completing my graduation in bachelor of techlogy in computer science and engineering i have completed some internship work in my college days
+2025-07-24 17:11:56,158 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:16:32,443 INFO:Interview session started.
+2025-07-24 17:16:32,508 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 17:16:32,508 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 17:16:55,845 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:16:55,860 INFO:Candidate provided name: Tanveer
+2025-07-24 17:16:55,860 INFO:Started interview with Tanveer
+2025-07-24 17:17:26,130 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:17:41,912 INFO:Candidate introduction: currently i am studying in tech and university in 4th year and looking for new jobs
+2025-07-24 17:17:52,873 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:20:57,612 INFO:Interview session started.
+2025-07-24 17:20:57,685 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 17:20:57,685 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 17:21:21,814 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:21:22,520 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:21:22,535 INFO:Candidate provided name: Mohammed
+2025-07-24 17:21:22,535 INFO:Started interview with Mohammed
+2025-07-24 17:21:57,696 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:22:13,972 INFO:Candidate introduction: so currently i am studying btech in computer science and engineering from heritage techlogy school in kolkata and looking for new jobs
+2025-07-24 17:22:25,206 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:24:43,097 INFO:Interview session started.
+2025-07-24 17:24:43,175 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 17:24:43,175 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 17:25:11,639 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:25:11,654 INFO:Candidate provided name: Zeeshan
+2025-07-24 17:25:11,654 INFO:Started interview with Zeeshan
+2025-07-24 17:25:46,405 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:26:07,970 INFO:Candidate introduction: i have completed my graduation is 2023 and w looking for new jobs i have my colleges and was in bachelor of arts in geography
+2025-07-24 17:26:19,359 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:30:39,171 INFO:Interview session started.
+2025-07-24 17:30:39,238 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 17:30:39,238 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 17:31:02,636 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:31:02,652 INFO:Candidate provided name: Ap
+2025-07-24 17:31:02,652 INFO:Started interview with Ap
+2025-07-24 17:31:39,899 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:32:01,041 INFO:Candidate introduction: currently i am pursuing my bachelors in techlogy in bankura online institute of techlogy and i will complete my graduation in 2027 in computer science and engineering
+2025-07-24 17:32:12,361 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:32:28,335 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:33:52,965 INFO:Interview session started.
+2025-07-24 17:33:53,038 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 17:33:53,038 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 17:34:16,746 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:34:16,761 INFO:Candidate provided name: Shweta
+2025-07-24 17:34:16,761 INFO:Started interview with Shweta
+2025-07-24 17:34:55,181 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:35:08,166 INFO:Candidate introduction: my mba from amity university ida and i love to play guitar and sing and that's my hobbies and looking for new jobs
+2025-07-24 17:35:19,478 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:42:06,966 INFO:Interview session started.
+2025-07-24 17:42:07,044 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 17:42:07,044 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 17:42:30,996 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:42:31,002 INFO:Candidate provided name: Priyanka
+2025-07-24 17:42:31,003 INFO:Started interview with Priyanka
+2025-07-24 17:43:09,707 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:43:26,891 INFO:Candidate introduction: currently i am pursuing my bachelor of techlogy in biotech from amity university ida and i will complete my graduation in 727 and currently i'm looking for jobs
+2025-07-24 17:43:38,331 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:44:11,046 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:44:27,424 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:44:59,098 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:45:30,453 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:45:30,453 INFO:Evaluated answer: remember about that i don't kw about that | Feedback: - Accuracy: The answer is not technically correct as it does not provide any information about relative and absolute cell references.
+- Clarity: The response lacks clarity since it does not explain the concepts at all.
+- Completeness: Key points are entirely missing; there is no mention of what relative and absolute references are or how they differ.
+
+Feedback: The response does not address the question and indicates a lack of knowledge on the topic. It would be beneficial to study the differences between relative and absolute cell references for a better understanding. 
+
+Score: 1/10
+2025-07-24 17:48:33,871 INFO:Interview session started.
+2025-07-24 17:48:33,940 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 17:48:33,940 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 17:49:05,147 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:49:05,162 INFO:Candidate provided name: Rohit
+2025-07-24 17:49:05,162 INFO:Started interview with Rohit
+2025-07-24 17:51:05,438 INFO:Interview session started.
+2025-07-24 17:51:05,488 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 17:51:05,488 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 17:51:46,350 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:51:46,366 INFO:Candidate provided name: Rohit
+2025-07-24 17:51:46,366 INFO:Started interview with Rohit
+2025-07-24 17:52:24,410 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:52:38,493 INFO:Candidate introduction: thank you for giving me the opportunity to introduce myself currently i am pursuing my btech in computer science and engineering from bankura institute of techlogy and i will complete my graduation in 2026 currently looking for jobs thank you
+2025-07-24 17:52:49,083 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:53:17,628 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:53:33,679 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:55:24,993 INFO:Interview session started.
+2025-07-24 17:55:25,050 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 17:55:25,050 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 17:55:49,181 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:55:49,995 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:55:49,995 INFO:Candidate provided name: Jisu
+2025-07-24 17:55:49,995 INFO:Started interview with Jisu
+2025-07-24 17:56:28,058 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 17:56:47,635 INFO:Candidate introduction: currently i am pursue my bachelor of techlogy in mechanical engineering from jadavpur university and looking for jobs that includes excel
+2025-07-24 17:56:58,128 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:00:40,738 INFO:Interview session started.
+2025-07-24 18:00:40,793 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 18:00:40,793 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 18:01:22,356 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:01:22,362 INFO:Candidate provided name: Monomoy
+2025-07-24 18:01:22,362 INFO:Started interview with Monomoy
+2025-07-24 18:02:00,516 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:02:15,918 INFO:Candidate introduction: sure so currently i am pursuing my btech in computer science and engineering from tech india university and i will complete my graduation in 2027 and currently looking for new jobs and internship opportunities
+2025-07-24 18:02:26,931 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:03:58,464 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:04:13,420 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:04:44,551 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:04:59,840 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:05:00,006 INFO:Evaluated answer: to use the built-in functions of data visualisation we can use pivot charts and pie charts in present in excel and use the complex formulas like free lookup and hlookup to get insights from the datas | Feedback: Accuracy: The answer mentions using pivot charts and pie charts, which are valid tools for data visualization in Excel. However, it incorrectly refers to "free lookup," which seems to be a misunderstanding of either VLOOKUP or HLOOKUP. 
+
+Clarity: The explanation lacks clarity and is somewhat disjointed. The candidate does not clearly articulate how these tools are used to present insights or provide a coherent example.
+
+Completeness: The answer is missing a specific example of a project where these tools were effectively utilized. Additionally, it does not mention other powerful visualization tools available in Excel, such as bar charts, line graphs, or conditional formatting.
+
+Feedback: The candidate demonstrates some knowledge of Excel's data visualization tools but fails to provide a clear, complete, and accurate response. More specific examples and a better explanation of how these tools are used would improve the answer significantly.
+
+Score: 4/10
+2025-07-24 18:05:50,699 INFO:Interview session started.
+2025-07-24 18:05:50,754 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 18:05:50,755 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 18:06:13,789 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:06:13,800 INFO:Candidate provided name: Deepak
+2025-07-24 18:06:13,800 INFO:Started interview with Deepak
+2025-07-24 18:06:47,421 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:07:09,246 INFO:Candidate introduction: also currently i am pursuing my bachelor of science in computer science from amity university ida and looking for internship
+2025-07-24 18:07:19,806 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:08:06,467 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:08:19,188 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:09:41,777 INFO:Interview session started.
+2025-07-24 18:09:41,846 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 18:09:41,846 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 18:10:04,986 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:10:04,986 INFO:Candidate provided name: Deepak
+2025-07-24 18:10:04,986 INFO:Started interview with Deepak
+2025-07-24 18:10:42,288 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:10:55,078 INFO:Candidate introduction: ortho thank you for giving me the opportunity to introduce myself currently i am pursuing my bachelor of science in computer science in amity of university of ida and i live in delhi
+2025-07-24 18:11:05,833 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:11:27,088 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:11:39,708 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:12:10,207 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:12:21,436 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:12:21,438 INFO:Evaluated answer: cell is like which | Feedback: Accuracy: The answer is not technically correct as it does not accurately explain the concepts of relative and absolute cell references.
+
+Clarity: The response lacks clarity and does not provide any meaningful explanation or context regarding cell references.
+
+Completeness: The answer is incomplete and misses key points, such as definitions, examples, and situations where each type of reference would be used.
+
+Feedback: The response does not address the question adequately and fails to convey the necessary information about relative and absolute cell references. More detail and clarity are needed. 
+
+Score: 2/10
+2025-07-24 18:12:50,154 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:13:02,858 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:13:29,162 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:13:40,538 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:13:40,539 INFO:Evaluated answer: conditional formatting we have to go to the data and then select conditional formatting and data validation to that's how is conditional formatting | Feedback: Evaluation:
+
+- **Accuracy**: The answer is partially accurate but contains some confusion. Conditional formatting can be accessed directly from the "Home" tab, and data validation is a separate feature.
+- **Clarity**: The explanation lacks clarity and coherence, making it difficult to understand the process clearly.
+- **Completeness**: Key points are missing, such as examples of how to apply conditional formatting, the types of conditions that can be used, and the purpose of using it.
+
+Feedback: The candidate shows some understanding of conditional formatting but needs to clarify the process and provide more detailed information. 
+
+Score: 4/10
+2025-07-24 18:14:04,595 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:14:23,914 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:14:54,949 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:15:08,482 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:15:08,482 INFO:Evaluated answer: sorry i don't kw about that | Feedback: - Accuracy: The answer is not technically correct as it does not provide any information regarding the question.
+- Clarity: There is no explanation or clarity in the response since the candidate admits to not knowing the answer.
+- Completeness: The answer is completely lacking; it does not address any key points about relative and absolute cell references.
+
+Feedback: The candidate needs to improve their knowledge of Excel concepts, particularly cell references, as this is fundamental for effective spreadsheet management. Score: 1/10.
+2025-07-24 18:15:30,784 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:15:46,150 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:16:13,398 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:16:28,149 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:16:28,149 INFO:Evaluated answer: i can't explain this right w | Feedback: - Accuracy: The answer is not technically correct as it does not provide any information about conditional formatting.
+- Clarity: The response lacks clarity entirely, as it does not explain anything about the topic.
+- Completeness: The answer is completely incomplete; it fails to address the question or provide any relevant details.
+
+Feedback: The response does not demonstrate any understanding of conditional formatting and fails to provide any relevant information. It is important to articulate your thoughts clearly, especially in a technical interview. Score: 1/10
+2025-07-24 18:16:29,358 INFO:Interview complete. Generating summary and report.
+2025-07-24 18:16:39,417 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:16:40,732 INFO:Report generated at: data/reports\Deepak_Excel_Interview_Report.pdf
+2025-07-24 18:16:48,503 INFO:Interview session completed successfully.
+2025-07-24 18:19:56,519 INFO:Interview session started.
+2025-07-24 18:19:56,586 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 18:19:56,586 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 18:20:19,999 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:20:19,999 INFO:Candidate provided name: 
+2025-07-24 18:20:19,999 INFO:Started interview with 
+2025-07-24 18:21:02,455 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:21:23,573 INFO:Candidate introduction: hello i am a passionate individual with a bachelor of techlogy in computer science and engineering i have completed my graduation in 2024 from tech india university and secured 8 cgpa to out my academics w looking for jobs and internship in excel
+2025-07-24 18:21:33,233 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:21:56,513 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:22:08,598 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:22:33,271 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:22:46,592 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:22:46,599 INFO:Evaluated answer: i don't have any idea about that | Feedback: Accuracy: The answer is technically incorrect as it does not provide any information about relative and absolute cell references.  
+Clarity: There is no explanation or clarity in the response since the candidate admits to having no knowledge of the topic.  
+Completeness: The answer is completely lacking in content and does not address any key points regarding cell references.  
+
+Feedback: The candidate did not provide any relevant information or understanding of the topic, indicating a lack of knowledge in this area. It would be beneficial for them to review the concepts of relative and absolute references in Excel.  
+Score: 1/10
+2025-07-24 18:23:21,740 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:23:33,983 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:24:07,905 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:24:23,595 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:24:23,622 INFO:Evaluated answer: who is the value of we have to go to the specific cell and give the like type the founding value which we are finding for and give the specific cell range in which we are finding for and then press enter that's how we use vlookup as vertical lookup | Feedback: Accuracy: The answer contains some inaccuracies, such as the phrase "who is the value of we have to go to the specific cell," which is unclear. VLOOKUP requires specific arguments: lookup value, table array, column index number, and range lookup.
+
+Clarity: The explanation is quite muddled and lacks clarity. The candidate does not clearly articulate the steps involved in using VLOOKUP.
+
+Completeness: Key points are missing, including the specific syntax of the VLOOKUP function and the importance of the column index and range lookup parameters.
+
+Feedback: The candidate's response lacks clarity and accuracy, and it does not cover the necessary components of the VLOOKUP function. A more structured explanation with correct terminology is needed. 
+
+Score: 4/10
+2025-07-24 18:24:49,572 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:25:06,758 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:25:41,410 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:25:59,556 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:25:59,556 INFO:Evaluated answer: sorry i don't kw about this topic | Feedback: - Accuracy: The answer is technically incorrect as it does not provide any information about relative and absolute cell references.
+- Clarity: There is no explanation provided, so clarity cannot be evaluated.
+- Completeness: The answer is completely lacking in content and does not address the question at all.
+
+Feedback: The response does not demonstrate any understanding of the topic. It would be beneficial to review the concepts of relative and absolute cell references to provide a more informed answer in the future. Score: 1/10.
+2025-07-24 18:26:28,234 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:26:50,772 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:27:15,236 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:27:28,016 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:27:28,099 INFO:Evaluated answer: you are repeating the questions i told i have  idea about that | Feedback: Accuracy: The answer does not provide any technical information regarding the difference between relative and absolute cell references, making it inaccurate.
+
+Clarity: The response lacks clarity as it does not explain the concepts at all.
+
+Completeness: Key points are entirely missing; the candidate did not address the question.
+
+Feedback: The candidate's response does not engage with the question and fails to demonstrate understanding of the topic. A more detailed explanation of relative and absolute references is necessary. 
+
+Score: 2/10
+2025-07-24 18:27:29,421 INFO:Interview complete. Generating summary and report.
+2025-07-24 18:27:38,612 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:27:39,809 INFO:Report generated at: data/reports\_Excel_Interview_Report.pdf
+2025-07-24 18:28:14,183 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:28:58,475 INFO:Interview session completed successfully.
+2025-07-24 18:29:52,927 INFO:Interview session started.
+2025-07-24 18:29:53,033 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 18:29:53,033 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 18:30:17,457 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:30:17,473 INFO:Candidate provided name: Ben
+2025-07-24 18:30:17,473 INFO:Started interview with Ben
+2025-07-24 18:30:55,767 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:31:20,400 INFO:Candidate introduction: you are so currently i am pursuing my btech in computer science and engineering from amity university ida i live in gurgaon sector 46
+2025-07-24 18:31:31,189 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:31:47,953 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:32:02,338 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:32:29,685 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:32:44,351 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:32:44,352 INFO:Evaluated answer: i don't kw about that | Feedback: Accuracy: The answer is not technically correct as it does not provide any information about conditional formatting.
+
+Clarity: The response lacks clarity as it does not explain anything related to the topic.
+
+Completeness: The answer is completely lacking in content and does not address any key points about conditional formatting.
+
+Feedback: The candidate needs to demonstrate a basic understanding of conditional formatting in Excel. A more informative response is required to show familiarity with the topic. 
+
+Score: 1/10
+2025-07-24 18:33:04,895 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:33:17,953 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:33:51,436 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:34:05,705 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:34:05,705 INFO:Evaluated answer: sorry i don't kw about that | Feedback: - Accuracy: The answer is not technically correct as it does not provide any information about relative and absolute cell references.
+- Clarity: There is no explanation provided, making it unclear.
+- Completeness: The response is entirely lacking in content and misses all key points regarding the topic.
+
+Feedback: The candidate did not demonstrate any knowledge of the topic, which is a fundamental concept in Excel. It would be beneficial to study the differences between relative and absolute cell references for future interviews. 
+
+Score: 1/10
+2025-07-24 18:34:33,164 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:34:48,659 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:35:11,950 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:35:30,358 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:35:30,368 INFO:Evaluated answer: is some f2 exclude any certain | Feedback: Accuracy: The answer is not technically correct. It does not accurately describe the use of the SUM function or how to exclude values from a range.
+
+Clarity: The response is unclear and lacks coherent structure. It doesn't convey any meaningful information about the SUM function.
+
+Completeness: The answer misses key points such as how to use the SUM function and techniques like using SUMIF or SUMIFS to exclude certain values.
+
+Feedback: The response needs significant improvement in both clarity and accuracy. A more detailed explanation of the SUM function and methods to exclude values would be necessary. 
+
+Score: 2/10
+2025-07-24 18:36:09,062 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:36:25,582 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:37:03,561 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:37:18,611 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:37:18,627 INFO:Evaluated answer: i can explain you about some specific formulas including vlookup and hlookup i don't have any about experience about absolute and relative cell reference | Feedback: Accuracy: The answer is technically incorrect as it does not address the question about absolute and relative cell references. Instead, it shifts focus to VLOOKUP and HLOOKUP, which are unrelated to the question.
+
+Clarity: The response lacks clarity as it does not explain the concepts of absolute and relative references, making it difficult for the interviewer to assess the candidate's understanding.
+
+Completeness: Key points are missing, including definitions and examples of both types of cell references, as well as scenarios where each would be used.
+
+Feedback: The candidate did not answer the question and instead mentioned unrelated formulas. A better response would include definitions and examples of absolute and relative references. Score: 2/10.
+2025-07-24 18:37:19,837 INFO:Interview complete. Generating summary and report.
+2025-07-24 18:37:30,038 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:37:31,342 INFO:Report generated at: data/reports\Ben_Excel_Interview_Report.pdf
+2025-07-24 18:39:17,583 INFO:Interview session completed successfully.
+2025-07-24 18:39:52,382 INFO:Interview session started.
+2025-07-24 18:39:52,445 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 18:39:52,445 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 18:40:16,184 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:40:16,199 INFO:Candidate provided name: Bumrah
+2025-07-24 18:40:16,199 INFO:Started interview with Bumrah
+2025-07-24 18:40:53,298 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:41:07,524 INFO:Candidate introduction: currently i am in class 12 reading in bankura zilla school studying in science and i will complete my graduation in probably 2029 i will take admission in btech course
+2025-07-24 18:41:18,392 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:41:55,201 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:42:08,509 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:42:46,960 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:43:01,207 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:43:01,221 INFO:Evaluated answer: use the some function will click on a cell and then is equal to sum and then select the range of which we want the sum of and then press enter | Feedback: Accuracy: The answer contains a few inaccuracies, such as the misspelling of "SUM" as "some" and the phrasing "will click on a cell" which is unclear. The explanation lacks precision in describing the steps to use the SUM function.
+
+Clarity: The explanation is somewhat vague and lacks detail. It would benefit from a clearer structure, such as specifying the use of the formula bar or the function syntax.
+
+Completeness: The answer does not mention common mistakes to avoid, such as forgetting to include the equal sign, using incorrect cell references, or not properly closing the parentheses.
+
+Feedback: The candidate demonstrates a basic understanding of the SUM function, but the explanation needs improvement in accuracy, clarity, and completeness. 
+
+Score: 5/10
+2025-07-24 18:43:31,352 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:43:45,772 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:44:13,096 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:44:27,957 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:44:27,973 INFO:Evaluated answer: use conditional formatting we go to the conditional formatting tab and then press data validation and use confidential formatting | Feedback: Evaluation:
+
+- Accuracy: The answer is technically incorrect. The candidate confuses conditional formatting with data validation, which are two distinct features in Excel.
+- Clarity: The explanation lacks clarity and does not provide a coherent step-by-step process for applying conditional formatting.
+- Completeness: The candidate does not mention the types of conditions that can be applied or the purpose of using conditional formatting.
+
+Feedback: The candidate needs to clarify the difference between conditional formatting and data validation, and provide a more structured explanation of how to apply conditional formatting effectively. 
+
+Score: 3/10
+2025-07-24 18:45:10,392 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:45:23,441 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:46:00,144 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:46:14,911 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:46:14,911 INFO:Evaluated answer: to use the vlookup function we should go to the particular cell and then type the matching value which were looking for suppose b3 and then comma and then first bracket and in which specific cell range we are finding for that then how is vlookup and press enter and that will the give us the value | Feedback: Accuracy: The answer contains some inaccuracies, such as not clearly explaining the syntax of the VLOOKUP function and the use of parentheses. It also incorrectly suggests typing the matching value directly into the cell.
+
+Clarity: The explanation is somewhat unclear and lacks a structured approach. The candidate's wording is confusing and does not effectively communicate how to use the function.
+
+Completeness: Key points are missing, such as the importance of specifying the column index number and whether the match should be exact or approximate. The candidate does not mention the function's syntax: `VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])`.
+
+Feedback: The candidate demonstrates a basic understanding of VLOOKUP but struggles with clarity and completeness. A more structured explanation and attention to detail are needed.
+
+Score: 4/10
+2025-07-24 18:46:44,161 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:46:57,039 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:47:35,653 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:47:52,727 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:47:52,727 INFO:Evaluated answer: sorry i don't kw about this | Feedback: Accuracy: The answer is not technically correct as it does not provide any information about relative and absolute cell references. 
+
+Clarity: The response lacks clarity since it does not explain the concepts at all.
+
+Completeness: The answer is completely lacking in content, missing all key points regarding relative and absolute references.
+
+Feedback: The candidate did not demonstrate any understanding of the topic. It is essential to prepare for fundamental concepts in Excel, as they are commonly used in data analysis. 
+
+Score: 1/10
+2025-07-24 18:47:53,931 INFO:Interview complete. Generating summary and report.
+2025-07-24 18:48:02,996 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:48:04,411 INFO:Report generated at: data/reports\Bumrah_Excel_Interview_Report.pdf
+2025-07-24 18:48:38,139 INFO:Interview session completed successfully.
+2025-07-24 18:57:50,509 INFO:Interview session started.
+2025-07-24 18:57:50,578 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 18:57:50,578 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 18:58:20,874 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 18:58:20,892 INFO:Candidate provided name: Tirthankar
+2025-07-24 18:58:20,892 INFO:Started interview with Tirthankar
+2025-07-24 19:00:41,321 INFO:Interview session started.
+2025-07-24 19:00:41,388 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 19:00:41,388 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 19:01:07,664 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 19:01:07,684 INFO:Candidate provided name: Taj
+2025-07-24 19:01:07,684 INFO:Started interview with Taj
+2025-07-24 19:01:40,972 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 19:01:42,185 INFO:Candidate introduction: so currently i am working as a software developer in data dealer llp and looking for new jobs
+2025-07-24 19:01:53,890 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 19:05:10,949 INFO:Interview session started.
+2025-07-24 19:05:11,017 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 19:05:11,017 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 19:05:35,076 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 19:05:35,076 INFO:Candidate provided name: Preetha
+2025-07-24 19:05:35,076 INFO:Started interview with Preetha
+2025-07-24 19:06:08,967 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 19:06:23,742 INFO:Candidate introduction: currently i am pursuing my bachelor of techlogy in computer science in engineering from tech india university and looking for new job opportunities that will help me grow individually in skills
+2025-07-24 19:06:37,162 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 19:07:14,694 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 19:07:30,370 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 19:08:08,962 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 19:08:23,417 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 19:08:23,417 INFO:Evaluated answer: use the sum function we have to go to the specific range and then press is equal to sum and select the data range of which will do the sum and then it will be like automatically featured and sound | Feedback: Accuracy: The answer is partially correct in mentioning the use of the SUM function and selecting a data range. However, it lacks specifics about how to ensure the formula updates automatically with new data.
+
+Clarity: The explanation is somewhat unclear and contains grammatical errors, making it difficult to follow. The phrase "automatically featured and sound" does not convey a clear meaning.
+
+Completeness: The candidate did not mention using a dynamic range, such as a table or using the OFFSET function, which is essential for ensuring the formula updates automatically when new data is added.
+
+Feedback: The candidate demonstrates a basic understanding of the SUM function but needs to improve clarity and completeness in their explanation. They should also include methods to ensure the formula remains dynamic. 
+
+Score: 4/10
+2025-07-24 19:08:55,348 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 19:09:11,195 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 19:09:35,350 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 19:09:51,058 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 19:09:51,058 INFO:Evaluated answer: sorry i don't kw about that | Feedback: Accuracy: The answer is not technically correct as it does not provide any relevant information about conditional formatting, data formatting, or the difference between a formula and a function in Excel.
+
+Clarity: The response lacks clarity entirely, as it does not attempt to explain any concepts related to the question.
+
+Completeness: The answer is completely incomplete, missing all key points and failing to address any part of the question.
+
+Feedback: The response does not demonstrate any knowledge of the topics asked. It would be beneficial for the candidate to review basic Excel concepts to improve their understanding. 
+
+Score: 1/10
+2025-07-24 19:10:19,242 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 19:10:31,861 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 19:11:05,014 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 19:11:19,938 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 19:11:19,938 INFO:Evaluated answer: i don't kw about that | Feedback: Accuracy: The answer is not technically correct as it does not provide any information about relative and absolute cell references. 
+
+Clarity: The response is unclear and lacks any explanation or detail.
+
+Completeness: The answer is completely lacking in content, missing all key points about the topic.
+
+Feedback: The candidate did not demonstrate any understanding of the question. It is important to study basic Excel concepts to provide a more informed response. 
+
+Score: 1/10
+2025-07-24 19:11:55,378 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 19:12:11,071 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 19:12:49,929 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 19:13:09,364 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 19:13:09,364 INFO:Evaluated answer: i don't remember about that but in excel relative and selling my changes when the formula is copied to ather cell and doesn't copy to ather cell | Feedback: Accuracy: The answer is partially correct in that it mentions the behavior of cell references when formulas are copied, but it is unclear and contains inaccuracies regarding terminology.
+
+Clarity: The explanation is poorly articulated, making it difficult to understand the concepts of relative and absolute references.
+
+Completeness: Key points are missing, such as the definitions of relative and absolute references, and how to denote absolute references using the dollar sign ($).
+
+Feedback: The candidate shows some awareness of the topic but lacks clarity and accuracy in their explanation. A more structured response with correct terminology would be beneficial. 
+
+Score: 4/10
+2025-07-24 19:13:10,576 INFO:Interview complete. Generating summary and report.
+2025-07-24 19:13:19,957 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 19:13:21,294 INFO:Report generated at: data/reports\Preetha_Excel_Interview_Report.pdf
+2025-07-24 19:14:18,335 INFO:Interview session completed successfully.
+2025-07-24 21:33:02,667 INFO:Interview session started.
+2025-07-24 21:33:02,924 INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\ADMIN\\OneDrive\\Desktop\\Excel_mock\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-24 21:33:02,924 INFO:Using writeable comtypes cache directory: 'C:\Users\ADMIN\OneDrive\Desktop\Excel_mock\.venv\Lib\site-packages\comtypes\gen'
+2025-07-24 21:33:41,322 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 21:33:41,344 INFO:Candidate provided name: Nilesh
+2025-07-24 21:33:41,344 INFO:Started interview with Nilesh
+2025-07-24 21:34:13,201 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 21:34:33,719 INFO:Candidate introduction: i kindly done my bsc from karnataka and i'm going to working in
+2025-07-24 21:34:45,209 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 21:35:12,452 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 21:35:29,462 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 21:36:06,166 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 21:36:25,821 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 21:36:25,821 INFO:Evaluated answer: yi i dotnt kw | Feedback: Accuracy: The answer is not technically correct as it does not provide any information about named ranges.
+
+Clarity: The response lacks clarity entirely, as it does not attempt to explain the concept.
+
+Completeness: The answer is completely incomplete, missing any key points regarding named ranges and their usefulness.
+
+Feedback: The candidate did not provide any relevant information regarding named ranges, which indicates a lack of understanding of the topic. A more thorough response is needed to demonstrate knowledge in Excel.
+
+Score: 1/10
+2025-07-24 21:36:56,301 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 21:37:08,799 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 21:37:58,168 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 21:38:20,217 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 21:38:20,217 INFO:Evaluated answer: i don't kw actually i am very eager to kw about it can you please share some of it with me | Feedback: Accuracy: The answer is not technically correct as it does not provide any information about automating reports in Excel using VBA.
+
+Clarity: The response lacks clarity as it does not address the question at all and instead expresses a desire to learn.
+
+Completeness: The answer is completely incomplete; it does not mention any key points related to VBA or report automation.
+
+Feedback: The candidate's response indicates a lack of knowledge about the topic and does not attempt to provide any relevant information. It's important to have a basic understanding of VBA for automation tasks in Excel. 
+
+Score: 1/10
+2025-07-24 21:39:02,536 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 21:39:20,897 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 21:40:02,304 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 21:40:23,307 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 21:40:23,307 INFO:Evaluated answer: don't have exact kwledge about it because one of my colleagues just use it previously and he showed me how to do it but | Feedback: Accuracy: The answer lacks technical correctness as the candidate does not demonstrate any understanding of the project or the processes involved in integrating and analyzing data from multiple sources.
+
+Clarity: The response is unclear and poorly articulated, making it difficult to understand the candidate's experience or knowledge level.
+
+Completeness: The answer is incomplete, as it does not provide any details about the project, data sources, or analytical methods used.
+
+Feedback: The candidate needs to demonstrate a better understanding of Excel and its applications in complex projects. It would be beneficial to gain hands-on experience and articulate specific examples in future interviews. 
+
+Score: 2/10
+2025-07-24 21:41:23,247 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 21:41:42,947 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 21:42:37,404 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 21:42:57,159 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 21:42:57,159 INFO:Evaluated answer: use that feature in vary of the task from making some of the codes to decorate anything in the specific language or i can create or edit some of the things which are very useful for me and if i think that is useful for me then i can do it with this features | Feedback: Accuracy: The answer lacks specific technical details and does not accurately describe how advanced Excel functions like array formulas or VBA can be used to automate tasks.
+
+Clarity: The explanation is vague and difficult to understand, making it hard to follow the candidate's thought process.
+
+Completeness: The response is missing a concrete example of a task that was automated using these functions, which is essential to demonstrate practical knowledge.
+
+Feedback: The candidate's response is unclear and lacks specific examples or technical accuracy. A more structured answer with a clear example would greatly improve the response.
+
+Score: 3/10
+2025-07-24 21:42:58,477 INFO:Interview complete. Generating summary and report.
+2025-07-24 21:43:08,971 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 21:43:10,325 INFO:Report generated at: data/reports\Nilesh_Excel_Interview_Report.pdf
+2025-07-24 21:43:55,944 INFO:Interview session completed successfully.
