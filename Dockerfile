@@ -8,9 +8,9 @@ ENV PYTHONUNBUFFERED=1
 # Set work directory
 WORKDIR /app
 
-# Install system dependencies (for audio and TTS support)
+# Install system dependencies (for audio, TTS support, and git)
 RUN apt-get update && \
-    apt-get install -y ffmpeg portaudio19-dev python3-pyaudio python3-dev build-essential espeak && \
+    apt-get install -y git ffmpeg portaudio19-dev python3-pyaudio python3-dev build-essential espeak && \
     rm -rf /var/lib/apt/lists/*
 
 # Install Python dependencies
